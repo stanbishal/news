@@ -1,0 +1,9 @@
+{
+    "Blog": true,
+    "Core": true,
+    "Category": true,
+    "Tag": true,
+    "News": true,
+    "Comment": true,
+    "Auth": true
+}
